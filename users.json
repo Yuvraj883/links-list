@@ -98,5 +98,13 @@
       "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/Shrejal.jpg ",
       "about": " React Developer | Graphic Designer"
     }
+    ,
+    {
+      "id": ,
+      "name": "Yuvraj Singh",
+      "link": "https://yuvraj883.github.io/myPortfolio/index.html",
+      "image": "https://github.com/Yuvraj883/links-list/blob/Yuvraj/img/Yuvraj%20Singh.jpeg",
+      "about": " Web Developer | CPP & Java Programmer | Problem Solver "
+    },
   ]
 }
